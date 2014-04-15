@@ -3,8 +3,12 @@ world
 
 new banch
 
+<<<<<<< HEAD
 new tag
 
 1111
 
 2222
+=======
+new tag
+>>>>>>> parent of 40ceaf6... add
